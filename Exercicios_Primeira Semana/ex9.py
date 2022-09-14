@@ -40,3 +40,4 @@ print('[4] - Total Gasto: ', '                                       R$: ', soma
 print('------------------------------------------------')
 
 
+print('sadddddddddddddddddddddd')
