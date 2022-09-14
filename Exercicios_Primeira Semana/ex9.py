@@ -1,4 +1,4 @@
-''''
+'''''
 Suponha que você foi ao supermercado e comprou:
 
 • N quilos de café, cujo custo unitário(1 quilo) é Q
@@ -8,7 +8,7 @@ Suponha que você foi ao supermercado e comprou:
 Faça um programa que mostre: nome do produto, total gasto com cada produto e o total gasto no
 mercado.
 
-''''
+'''''
 
 
 kgCafe = 8.50
