@@ -38,6 +38,3 @@ print('[3] - Café: ', '                                                      R$
 print('------------------------------------------------')
 print('[4] - Total Gasto: ', '                                       R$: ', somaTotal)
 print('------------------------------------------------')
-
-
-print('sadddddddddddddddddddddd')
